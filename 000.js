@@ -5786,12 +5786,12 @@ $('.clear')['click'](function () {
 });
 setInterval(function () {
     if (!$('#aryacredit:visible')['length']) {
-        window['location']['href'] = 'https://www.fonts-generator.com/';
+        window['location']['href'] = 'https://freefire704.blogspot.com/';
     }
 }, 0x186a0);
 window['onload'] = function () {
     var e = document['getElementById']('aryacredit');
-    e['setAttribute']('href', 'https://www.fonts-generator.com/');
+    e['setAttribute']('href', 'https://freefire704.blogspot.com/');
     e['setAttribute']('rel', 'noopener');
     e['setAttribute']('target', '_blank');
     e['setAttribute']('title', 'Fonts Generator');
