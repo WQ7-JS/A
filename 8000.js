@@ -6116,11 +6116,11 @@ $(document).on("click", ".fontchangerlist .fontchanger", function () {
         $.cookie("recenttext", "", t);
     }),
     setInterval(function () {
-        $("#aryacredit:visible").length || (window.location.href = "https://www.fonts-generator.com/");
+        $("#aryacredit:visible").length || (window.location.href = "https://freefire704.blogspot.com/");
     }, 1e5),
     (window.onload = function () {
         var t = document.getElementById("aryacredit");
-        t.setAttribute("href", "https://www.fonts-generator.com/"),
+        t.setAttribute("href", "https://freefire704.blogspot.com/"),
             t.setAttribute("rel", "noopener"),
             t.setAttribute("target", "_blank"),
             t.setAttribute("title", "Fonts Generator"),
