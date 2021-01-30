@@ -1,7 +1,4 @@
-if (location.host == "freefire704.blogspot.com") {
 
-
-// put your script function here
 
 
             //try {
@@ -510,12 +507,4 @@ function backward(text) { return $('#english-text').val(); }                //]]
 				var ghetto = translate(english);
 				$('#ghetto-text').val(ghetto);
 			}
-		
-
-// put your script function here
-
-}
-else {
-location.href = "https://freefire704.blogspot.com"; 
-}
-{alert('النموذج هو ترخيص الدخول إلى هذا الموقع "FreeFire.Gift" فقط !! يرجى الاتصال بنا عبر البريد الإلكتروني التالي : (Contact.Imad.EL@gmail.com) للحصول على الترخيص. شكرا لك ');}
+	
