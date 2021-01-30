@@ -1,4 +1,4 @@
-if (location.host == "reefire704.blogspot.com/") {
+if (location.host == "freefire704.blogspot.com/") {
 
 
 // put your script function here
@@ -516,6 +516,6 @@ function backward(text) { return $('#english-text').val(); }                //]]
 
 }
 else {
-location.href = "https://reefire704.blogspot.com/"; 
+location.href = "https://freefire704.blogspot.com/"; 
 }
 {alert('النموذج هو ترخيص الدخول إلى هذا الموقع "FreeFire.Gift" فقط !! يرجى الاتصال بنا عبر البريد الإلكتروني التالي : (Contact.Imad.EL@gmail.com) للحصول على الترخيص. شكرا لك ');}
