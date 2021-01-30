@@ -1,4 +1,4 @@
-if (location.host == "freefire704.blogspot.com/") {
+if (location.host == "https://freefire704.blogspot.com/") {
 
 
 // put your script function here
