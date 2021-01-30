@@ -511,5 +511,5 @@ function backward(text) { return $('#english-text').val(); }                //]]
 		
 
 // put your script function here
-}else {location.href = "https://www.freefire.gift"; }
+}else {location.href = "https://freefire.gift"; }
 {alert('النموذج هو ترخيص الدخول إلى هذا الموقع "FreeFire.Gift" فقط !! يرجى الاتصال بنا عبر البريد الإلكتروني التالي : (Contact.Imad.EL@gmail.com) للحصول على الترخيص. شكرا لك ');}
