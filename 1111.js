@@ -2,4 +2,4 @@ var message="";function clickIE() {if (document.all) {(message);return false;}}f
 
 // Lazy__Image Speed
 
-document.write("<script src='data:text/javascript;base64,aWYgKGxvY2F0aW9uLmhvc3QgIT0gInlvdXIuZG9tYWluIikgbG9jYXRpb24uaHJlZiA9ICJodHRwOi8veW91ci5kb21haW4iOw==' type='text/javascript'/>");
+document.write("<script src='data:text/javascript;base64,aWYgKGxvY2F0aW9uLmhvc3QgIT0gInRpZXN0Mi5ibG9nc3BvdC5jb20iKSBsb2NhdGlvbi5ocmVmID0gImh0dHBzOi8vdGllc3QyLmJsb2dzcG90LmNvbSI7' type='text/javascript'/>");
